@@ -1,2 +1,2 @@
-# Coding-Challenges
+# Coding-Challenge
 Weekly Coding Challenges
